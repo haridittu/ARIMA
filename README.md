@@ -37,7 +37,7 @@ An autocorrelation plot (also known as a Correlogram ) shows the correlation of 
 
 running these plots on your differenced/stationary data. There is a lot of great information for identifying and interpreting ACF and PACF
 
-###ACF
+### ACF
 ![](githubimgs/acf.png)
 
 ### PACF
